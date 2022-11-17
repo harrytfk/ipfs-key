@@ -1,4 +1,4 @@
-module github.com/whyrusleeping/ipfs-key
+module github.com/harrytfk/ipfs-key
 
 go 1.17
 
